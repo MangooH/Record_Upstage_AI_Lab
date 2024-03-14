@@ -7,5 +7,8 @@
 > 2. [머신러닝을 활용한 데이터 사이언스에 대한 이해](https://github.com/MangooH/Tutorial-for-Data-Science)
 >> - 데이터 사이언스에 필요한 기본 라이브러리 학습
 >> - 캐글 데이터셋을 활용한 데이터 사이언스 실습
-> 3. [딥러닝 Bottom-up](https://github.com/MangooH/Deep_learning)
+> 3. [캐글 - Home Credit 대회 참여](https://github.com/MangooH/home_credit)
+>> - 대용량 정형 데이터셋 EDA
+>> - Optuna 를 통한 최적의 파라미터 도출
+> 4. [딥러닝 Bottom-up](https://github.com/MangooH/Deep_learning)
 
